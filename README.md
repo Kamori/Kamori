@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+This section is a work in progress
+
 <!--
 **Kamori/Kamori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
